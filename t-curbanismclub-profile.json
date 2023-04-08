@@ -1,0 +1,20 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-04-08T01:19:33Z",
+  "IdClaims": [
+    {
+      "Claim": "t:curbanismclub"
+    }
+  ],
+  "IdDisclaims": null,
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "a1663e240358489f59ea8433",
+    "Timestamp": "2023-04-08T01:19:56Z",
+    "Signature": "46478d69af7bfaf73af115430fec76b4ea22bf6ec5975eff898a494b152713dfeb872c7d8814cfcdc1767a41f31b645dbba61e969968e08a56d1f6a6988ac0aedf05ea17bea18f5094342b0186bba200c01381ce6e01aee09e70f0034a90d3a3b3f7832ce72438044956c72d9e251c9c7d47eab9b6374d10c67e88cb5065fb8fb8a61ede2f07b32d77e8a670d12ae55d2cd75395c5baa242a4824d2b452d9eb8e6d5cc2b8dedbc00dafc14147a54f72940e0d4128f105e61b8226e7f0aa3b7d44f8a02fce7a1010bee3d0a7ee96957a2107fd455736b9f4c23c95ab9b858d5ad788ab10a42f49bf526bc0e7567e43df146ad404c8c4ebc909f0446386c6d7b39"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "02ba7cff2e3d615984ffaf2f4dc6a4cacd6f702ae220354b7b8eee9e7e49b101",
+  "ContentToHash": "v1|t:curbanismclub|2023-04-08T01:19:33Z"
+}
